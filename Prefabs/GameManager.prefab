@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7214077719123212004
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2504790619507635057}
+  - component: {fileID: 2343557585859456727}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: GameManager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2504790619507635057
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7214077719123212004}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 20, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2343557585859456727
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7214077719123212004}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed96018baf54fdf4d8e9f98cb886b526, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cardData: {fileID: 11400000, guid: e97c1d2ba00843c449d6652b8cbccfe0, type: 2}
+  mg: {fileID: 0}
+  cm: {fileID: 0}
+  vicPrefab: {fileID: 4543963671739967804, guid: ac7cadc8d0105a245a77f7b862a00b14, type: 3}
+  defeatPrefab: {fileID: 1053053237721117018, guid: 5a736ba347a196144937feab3b96ee17, type: 3}
+  cardBox: {fileID: 0}
+  map: {fileID: 0}
+  level1_5: {fileID: 0}
+  menu: {fileID: 0}
+  loading: {fileID: 0}
+  currentLevel: 0
+  IdChoice: -1
+  isEndDay: 0
+  checkMergeTime: 1

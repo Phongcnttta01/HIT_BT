@@ -1,0 +1,1029 @@
+fileFormatVersion: 2
+guid: dcb0837ba4a53964287594a0a6767b10
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Luffy1_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 208
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99744e2e9eb6c74c813b50568cfeefb
+      internalID: -253682424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 208
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c36f79c2f97fe4c9d7a109874c795a
+      internalID: -1887933341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 208
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81869ab3ea413034a993b5919b71f648
+      internalID: -21348979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7371305e7fe0c8c4495ac820bb9e04af
+      internalID: 144283779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 208
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1b253dd697bad488d8d338df4f63e8
+      internalID: -1733112392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_5
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 208
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6773594ad68be5747bda341f22e1c674
+      internalID: 1045699170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_6
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 208
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7585cca1136c4ac40af58c89344f71c4
+      internalID: 298938697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 208
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3721b977fc562468ce44dde1866ad2
+      internalID: -842763147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_8
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 208
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b793ae3b77cfbf143b54fe4a176aeb99
+      internalID: 560228910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 208
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4921e6597f65504abdc7ce6fef954b5
+      internalID: -1187491443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_10
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 208
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3074a8576da39124bae9750f8cd50846
+      internalID: 1775584086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_11
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 208
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09318530daaee224da77dec3e9502370
+      internalID: -1176959750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_12
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 208
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8490c8e44611b8c43bfca7b552adb30d
+      internalID: -1989822842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_13
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 208
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c235e84c9110e4b89bea1589ff8874
+      internalID: -373154456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_14
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 208
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9611ee72916cbea42909cf26a7c4c31f
+      internalID: 1019047948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_15
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 208
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201a52861af8b5b41a312ab50560370c
+      internalID: -1041421674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_16
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 208
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfdeae34559ea54d8a2d79777fd7853
+      internalID: 1744478555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 135
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada1fa17bac94a8408cd49be1ee6c8eb
+      internalID: 1050464320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 135
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d53d1ff7d5868418fbe866d70a6368
+      internalID: -1098317624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 135
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622eaba7c0cd6374491843b2656d346e
+      internalID: 319961664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 135
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5fc45ae9e27984a9b7ee8b95b13c48
+      internalID: 831329927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_21
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 135
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fd81e2fc73ae6478ea51de8345c277
+      internalID: 1574034037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 135
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e795df9374108541a22eb5e4ecc9b7e
+      internalID: -1108206944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 64
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72205655c49ed1849adc997f077cccde
+      internalID: 238852106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 64
+        width: 13
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e44dbce25dac245b2208438d193c02
+      internalID: -259052615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 86
+        width: 5
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c4b0533290b6845bc757fcc716fce7
+      internalID: 1202472600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 64
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81697eef28dc94846bda8b0046e24e64
+      internalID: -1919172464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_28
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 63
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bc1c19524496242ac8e27bdfbda664
+      internalID: -4490854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_29
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 63
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2d5132e43f609489302604fba2bcb3
+      internalID: -2069502867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_31
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 63
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8851917598d0641a22349d85b82ee1
+      internalID: -1355727643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_32
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 63
+        width: 87
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d41a74f0cb60741aab0016aacf49db
+      internalID: 825573342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_33
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 63
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09f6880f6bcf8a449266babff8a4512
+      internalID: -835938910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_41
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 63
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6d231f05c699d41903e90124d2f231
+      internalID: -2132084447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_42
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 63
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69aa3ff8dfa7d254a930466ec859c094
+      internalID: -616039563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_43
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 64
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d910ed243002c44be977a3f6609515
+      internalID: -1605464428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_44
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 64
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bd5fe22ffbe2e41a2f80034a9fc058
+      internalID: -2006121347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_46
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 64
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b8fc35ceba8564fb7714606ada0ff0
+      internalID: 1705261055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_66
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e4d03e57d3c4d49933c80c112c8c09
+      internalID: 1455704466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy1_67
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56745184571a7e74eb52d3be8941e768
+      internalID: -1008160598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Luffy1_0: -253682424
+      Luffy1_1: -1887933341
+      Luffy1_10: 1775584086
+      Luffy1_11: -1176959750
+      Luffy1_12: -1989822842
+      Luffy1_13: -373154456
+      Luffy1_14: 1019047948
+      Luffy1_15: -1041421674
+      Luffy1_16: 1744478555
+      Luffy1_17: 1050464320
+      Luffy1_18: -1098317624
+      Luffy1_19: 319961664
+      Luffy1_2: -21348979
+      Luffy1_20: 831329927
+      Luffy1_21: 1574034037
+      Luffy1_22: -1108206944
+      Luffy1_23: 501343725
+      Luffy1_24: 238852106
+      Luffy1_25: -259052615
+      Luffy1_26: 1202472600
+      Luffy1_27: -1919172464
+      Luffy1_28: -4490854
+      Luffy1_29: -2069502867
+      Luffy1_3: 144283779
+      Luffy1_30: 990335642
+      Luffy1_31: -1355727643
+      Luffy1_32: 825573342
+      Luffy1_33: -835938910
+      Luffy1_34: 1397031801
+      Luffy1_35: -1947205257
+      Luffy1_36: -880607321
+      Luffy1_37: -1547614287
+      Luffy1_38: 1308359228
+      Luffy1_39: 433947284
+      Luffy1_4: -1733112392
+      Luffy1_40: -388626770
+      Luffy1_41: -2132084447
+      Luffy1_42: -616039563
+      Luffy1_43: -1605464428
+      Luffy1_44: -2006121347
+      Luffy1_45: 1091700436
+      Luffy1_46: 1705261055
+      Luffy1_47: 868437674
+      Luffy1_48: -1998437734
+      Luffy1_49: -582801092
+      Luffy1_5: 1045699170
+      Luffy1_50: 739083328
+      Luffy1_51: 788156333
+      Luffy1_52: 1983724728
+      Luffy1_53: 2035375138
+      Luffy1_54: 384635232
+      Luffy1_55: 1772415947
+      Luffy1_56: -1021055380
+      Luffy1_57: -1407482018
+      Luffy1_58: 3958423
+      Luffy1_59: 401353801
+      Luffy1_6: 298938697
+      Luffy1_60: 105831590
+      Luffy1_61: 851855821
+      Luffy1_62: -1531889911
+      Luffy1_63: -915464979
+      Luffy1_64: -1656167114
+      Luffy1_65: -1532970728
+      Luffy1_66: 1455704466
+      Luffy1_67: -1008160598
+      Luffy1_68: 1859315489
+      Luffy1_69: 672187519
+      Luffy1_7: -842763147
+      Luffy1_8: 560228910
+      Luffy1_9: -1187491443
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

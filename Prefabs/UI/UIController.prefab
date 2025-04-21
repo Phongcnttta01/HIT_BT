@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9185707733605872113
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5729190200525170737}
+  - component: {fileID: 3324578719734011895}
+  m_Layer: 0
+  m_Name: UIController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5729190200525170737
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9185707733605872113}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3324578719734011895
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9185707733605872113}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a4d2a299d6e6764186d07a0171b98bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mainCamera: {fileID: 0}
+  uiCardBoxManager: {fileID: 0}
+  canvasCard: {fileID: 0}
+  canvasMap: {fileID: 0}
+  boxCard: {fileID: 0}
+  boxMap: {fileID: 0}
+  mg: {fileID: 0}
+  am: {fileID: 0}
+  loading: {fileID: 0}
+  settings: {fileID: 0}
+  level1_5: {fileID: 0}
+  howToPlay: {fileID: 1136462887489600970, guid: edd7acb9409b926498cea7ac83af4198, type: 3}
+  quitBackPack: {fileID: 0}
+  menu: {fileID: 0}
+  levelInfos:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  listLock:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  offSound: {fileID: -256800596, guid: 4307c9a3faedc824196a3fa1c5165f76, type: 3}
+  onSound: {fileID: -2109552505, guid: 4307c9a3faedc824196a3fa1c5165f76, type: 3}

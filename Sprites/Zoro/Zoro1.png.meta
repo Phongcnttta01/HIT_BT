@@ -1,0 +1,1373 @@
+fileFormatVersion: 2
+guid: 061ab658a85d67345ae2af9ded98f76e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zoro1_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 374
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a280dfb68d54d043a079739eb0f3967
+      internalID: 222415394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 374
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d6f456b859c204b85b1d00cb176caa
+      internalID: -1947139910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 374
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5ddc34310472141ae2f1f48c263745
+      internalID: 1031729494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 374
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d5d76157c8f5d41a9ead45cd80bf49
+      internalID: -214769232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 374
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e9860082858c447822a6515c277800
+      internalID: 118237069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 374
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80374468f9b3fff4ba2ec8a42ec0524c
+      internalID: -1549892158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_9
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 374
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a0250569f9fbc4da8124dd8ce6f5dc
+      internalID: 731011369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_10
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 374
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729b43f13260a304794e4368ae4bdb45
+      internalID: 1115167049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_11
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 374
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c489f4e19fd4b4a86c4484a5a19d8d
+      internalID: 1293126223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_12
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 374
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9011b7000533abb49989f00a1e561649
+      internalID: 1217053689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_13
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 374
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1316db919b0bc40bc2e1742c380317
+      internalID: -1649941747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_14
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 374
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b93d231023bcb40b80c6d372cd83d7
+      internalID: 102650508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 288
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c486e4a323086e84681fb9c599a6b0d0
+      internalID: -1579191095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_18
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 288
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55f8696c114ae74da069fc7903ac875
+      internalID: -1825562027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 288
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fc7db7c61765f4e81526d1685a49fa
+      internalID: 1080406807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_20
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 288
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f927eef6dced184299c831bcc0825fe
+      internalID: -1670647906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_21
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 288
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bd1fb0792881f4c9a0913a0e760219
+      internalID: -1294135257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 288
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fe7dbd5560fdc479ea14088612e549
+      internalID: -1129017410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_23
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 288
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaf9f3bbff9d2c41b396f09f32b3f9d
+      internalID: -1538046012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_24
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 288
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554270055d9088e4e9f3f714413fc7a2
+      internalID: 1967140278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_25
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 288
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31358fef3cd78e142b3bb4ecdc15bc2f
+      internalID: -125293997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_26
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 288
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baac27eed8f1d3b4e9c03bbd72e7ed6c
+      internalID: 665938803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_27
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 288
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6970bf782193f489a82c05252c9f90
+      internalID: 1819817104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_28
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 288
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715782f28b31bbb4e8a626defe9c2f8a
+      internalID: 1711580618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_29
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 197
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a92cacda371104d8d20e77fdb4cc67
+      internalID: -94888739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_35
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 197
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9365fdbe46ff5394282a9e3aab3895af
+      internalID: 478484729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_36
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 197
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12564829dd77c284fbc8e00d03a403e9
+      internalID: -526327053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_37
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 197
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a3f57b8df45e541ba7e7247181a4bb
+      internalID: 1633119933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 197
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db158bba638c58439dc2e5a10408347
+      internalID: 76292864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_46
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 197
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165bc84d9a1149f42b529acf30badd2f
+      internalID: -1408540787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_52
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 197
+        width: 86
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344a2107eed22f547b153d275adad03c
+      internalID: -1512786433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_53
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 197
+        width: 84
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51c21fefc4733f4a8d94fec8436fd57
+      internalID: -256814625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_54
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 197
+        width: 84
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2104ce4560ca85c4eabcd821cc110e70
+      internalID: -1424750618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_55
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 106
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4765dee47e9f64d4fa72d131814ec9f5
+      internalID: 216375152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_56
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 106
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc4a12ddfa2f744e8c5dfa8299eb1c8
+      internalID: 130506537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_57
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 106
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb6d081f91bb9e44a45ea2b4089bfdb
+      internalID: 862068670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_58
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 106
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51946e408576b32428faee53cb704435
+      internalID: -465376009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_59
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 106
+        width: 86
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3316038e8b931741abe9ba6fd090d7e
+      internalID: -978335395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_60
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 106
+        width: 84
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c23c337d766ee4d90df7e529b5b62f
+      internalID: 1445726908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_61
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 106
+        width: 84
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e62667c8811e546887712cdf9cca5b
+      internalID: -1967618843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_62
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 106
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7b1b98d610cfb4ca127984b85ba46a
+      internalID: 606172854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_63
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 106
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4d446117a46974e806f75ad1b2b308
+      internalID: 2133130033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_64
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff51633b6baa184c8c9cd1dcc27c248
+      internalID: -606458707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_65
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 23
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0320f53bd6110488c5922f8c8a5b0c
+      internalID: 1627021662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_66
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 23
+        width: 68
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbbfe0fd653b594fb946d62c62484eb
+      internalID: 760886171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_67
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 46
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4647773decfd90546a26df128d6d1efc
+      internalID: -1992674820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_68
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 23
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679086a69e814b849a2b9ab7e2f13096
+      internalID: -486968268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_69
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 57
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae4413ac8d557c4c9a1025cd2e03ff8
+      internalID: 1345697923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_70
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 23
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090a5925966cc704fb3d4d704510e433
+      internalID: 384493894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_71
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 23
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003baabf31f9b344cbeee03e86240d86
+      internalID: -1438291033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_72
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 23
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bae238d2cc6b24184d386ed2826c51
+      internalID: 154008286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_73
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 0
+        width: 41
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959bab8b2c328ca42a71e28da0ed2280
+      internalID: 739765615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_74
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 31
+        width: 63
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2757e64c4c36b45a087f27294ce8e8
+      internalID: -692852373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_75
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 23
+        width: 48
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73b79293621eda40a47a84f97b7fe53
+      internalID: -1993856288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoro1_76
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 17
+        width: 146
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a72f111380b90e46b9bb13c7c6b613f
+      internalID: 1991764241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Zoro1_0: 222415394
+      Zoro1_1: -1947139910
+      Zoro1_10: 1115167049
+      Zoro1_11: 1293126223
+      Zoro1_12: 1217053689
+      Zoro1_13: -1649941747
+      Zoro1_14: 102650508
+      Zoro1_15: -1052318088
+      Zoro1_16: -99932211
+      Zoro1_17: -1579191095
+      Zoro1_18: -1825562027
+      Zoro1_19: 1080406807
+      Zoro1_2: 1031729494
+      Zoro1_20: -1670647906
+      Zoro1_21: -1294135257
+      Zoro1_22: -1129017410
+      Zoro1_23: -1538046012
+      Zoro1_24: 1967140278
+      Zoro1_25: -125293997
+      Zoro1_26: 665938803
+      Zoro1_27: 1819817104
+      Zoro1_28: 1711580618
+      Zoro1_29: -94888739
+      Zoro1_3: -214769232
+      Zoro1_30: -240523890
+      Zoro1_31: 2041970934
+      Zoro1_32: 1531293030
+      Zoro1_33: 1377750294
+      Zoro1_34: 1200740085
+      Zoro1_35: 478484729
+      Zoro1_36: -526327053
+      Zoro1_37: 1633119933
+      Zoro1_38: -1383224674
+      Zoro1_39: -1786653387
+      Zoro1_4: -1585123249
+      Zoro1_40: -1377861633
+      Zoro1_41: 864499377
+      Zoro1_42: -1932827084
+      Zoro1_43: 1780500743
+      Zoro1_44: 1416482069
+      Zoro1_45: 76292864
+      Zoro1_46: -1408540787
+      Zoro1_47: -1297130919
+      Zoro1_48: -1058426116
+      Zoro1_49: 1778331586
+      Zoro1_5: 1210275143
+      Zoro1_50: 1249129488
+      Zoro1_51: -59679179
+      Zoro1_52: -1512786433
+      Zoro1_53: -256814625
+      Zoro1_54: -1424750618
+      Zoro1_55: 216375152
+      Zoro1_56: 130506537
+      Zoro1_57: 862068670
+      Zoro1_58: -465376009
+      Zoro1_59: -978335395
+      Zoro1_6: 264742386
+      Zoro1_60: 1445726908
+      Zoro1_61: -1967618843
+      Zoro1_62: 606172854
+      Zoro1_63: 2133130033
+      Zoro1_64: -606458707
+      Zoro1_65: 1627021662
+      Zoro1_66: 760886171
+      Zoro1_67: -1992674820
+      Zoro1_68: -486968268
+      Zoro1_69: 1345697923
+      Zoro1_7: 118237069
+      Zoro1_70: 384493894
+      Zoro1_71: -1438291033
+      Zoro1_72: 154008286
+      Zoro1_73: 739765615
+      Zoro1_74: -692852373
+      Zoro1_75: -1993856288
+      Zoro1_76: 1991764241
+      Zoro1_77: -584612611
+      Zoro1_8: -1549892158
+      Zoro1_9: 731011369
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

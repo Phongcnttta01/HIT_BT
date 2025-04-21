@@ -1,0 +1,721 @@
+fileFormatVersion: 2
+guid: dcb4cb4e402e1d34e958107c8f669174
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ace8_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 124
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd9826dd73d2b24a8fa8a50e38468c1
+      internalID: 644904310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ace8_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 124
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9929c099602da41479bfbcc0dc213381
+      internalID: 672560765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ace8_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 124
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b66f0a42b948f40ac8784a852bb805
+      internalID: -1027316661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ace8_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 124
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8074be2af9c39a94d8ef608016553fc5
+      internalID: 1025424047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ace8_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 124
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c705bad3b004c0447864ac17f0ab29eb
+      internalID: 1690514403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ace8_5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 124
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d55cf16cb2d4741a0e4a7c8170335a
+      internalID: 1359501368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ace8_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 124
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1f451662849a24cbf74ef9271817aa
+      internalID: 1106562956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ace8_7
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 124
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3ab20230879aa48999f8baa16df45e
+      internalID: 1766704147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ace8_8
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 118
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461e66459f9ad7a4d98c6ac2d120b4ea
+      internalID: 1808621849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ace8_9
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 118
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e4271ea90e230409338c5db063a423
+      internalID: -625720445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ace8_10
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 118
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0846fca3a3fab4c9683ff5592ca528
+      internalID: 954319966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ace8_11
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 118
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae294d91cbaf6474ea46b167a2ee8315
+      internalID: -1936316830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ace8_12
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 121
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45753271859d11c439fa99bedd036f2d
+      internalID: -1991910482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ace8_14
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 121
+        width: 92
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027fcdbcaba5189489daef13794ed9ba
+      internalID: -701391659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ace8_23
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 21
+        width: 102
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e30ea5957bead4caaa3ea488f2be11
+      internalID: 1565246768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ace8_24
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 21
+        width: 106
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1572d13b9ee174684e7d755714540d
+      internalID: -1327676128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ace8_13
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 120
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f6222069a434c4889d6dfe587c6a45
+      internalID: 1348219626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ace8_15
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 121
+        width: 94
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8896907b2bb9b374087dd36c529ca737
+      internalID: -615345457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ace8_16
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 21
+        width: 113
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2028cbe5d11a08d49a69c66905325893
+      internalID: 1562645402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ace8_17
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 21
+        width: 106
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534b62a0180844f4095c74fec89e582b
+      internalID: -577435028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ace8_18
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 20
+        width: 118
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2317c76347b684892df3b16a116176
+      internalID: 132066059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ace8_19
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 19
+        width: 116
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e395366b9274424481254aa8d956905
+      internalID: 1641343372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ace8_20
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 19
+        width: 111
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df26f0a73310a6a45a5ef414f08372d3
+      internalID: -1359891820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ace8_21
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 19
+        width: 120
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287921d6dd97e974f8b050e6162359f3
+      internalID: -1385077787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ace8_0: 644904310
+      Ace8_1: 672560765
+      Ace8_10: 954319966
+      Ace8_11: -1936316830
+      Ace8_12: -1991910482
+      Ace8_13: 1348219626
+      Ace8_14: -701391659
+      Ace8_15: -615345457
+      Ace8_16: 1562645402
+      Ace8_17: -577435028
+      Ace8_18: 132066059
+      Ace8_19: 1641343372
+      Ace8_2: -1027316661
+      Ace8_20: -1359891820
+      Ace8_21: -1385077787
+      Ace8_22: -349134618
+      Ace8_23: 1565246768
+      Ace8_24: -1327676128
+      Ace8_25: -1563265176
+      Ace8_26: -1257723591
+      Ace8_27: 91800027
+      Ace8_28: -1225528423
+      Ace8_29: 287254574
+      Ace8_3: 1025424047
+      Ace8_30: 146035712
+      Ace8_31: 1648264928
+      Ace8_32: 401356146
+      Ace8_33: -2082598625
+      Ace8_34: -1670670058
+      Ace8_35: 2117030331
+      Ace8_36: -1837190131
+      Ace8_37: -1596288533
+      Ace8_38: -1027921569
+      Ace8_39: -466257115
+      Ace8_4: 1690514403
+      Ace8_40: 1188448672
+      Ace8_41: -998310909
+      Ace8_42: -1661595171
+      Ace8_43: 934894311
+      Ace8_44: -1263113089
+      Ace8_45: 14528482
+      Ace8_46: 662563117
+      Ace8_47: -825795187
+      Ace8_48: -1781821018
+      Ace8_49: -311442708
+      Ace8_5: 1359501368
+      Ace8_50: 1839931113
+      Ace8_51: -534461882
+      Ace8_52: -1035053246
+      Ace8_53: -1374139457
+      Ace8_54: 578279265
+      Ace8_55: 5042694
+      Ace8_56: -73477716
+      Ace8_57: -1422997153
+      Ace8_58: 238636804
+      Ace8_59: 844247182
+      Ace8_6: 1106562956
+      Ace8_60: -1179730134
+      Ace8_61: -483971248
+      Ace8_62: -359778338
+      Ace8_63: -1624129028
+      Ace8_64: -636180583
+      Ace8_65: -1892050028
+      Ace8_66: -1288830604
+      Ace8_67: 1107852427
+      Ace8_68: 578306371
+      Ace8_69: -1612344410
+      Ace8_7: 1766704147
+      Ace8_70: 154927720
+      Ace8_71: 701091575
+      Ace8_72: 171919106
+      Ace8_73: 226177947
+      Ace8_74: -1974742633
+      Ace8_75: -79841871
+      Ace8_76: -1278956351
+      Ace8_8: 1808621849
+      Ace8_9: -625720445
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
